@@ -153,8 +153,8 @@ local Main = RayField.Main
 local Topbar = Main.Topbar
 local Elements = Main.Elements
 local LoadingFrame = Main.LoadingFrame
+local TabList = Main.TabList
 local SearchBar = Main.Searchbar
-
 
 
 Rayfield.DisplayOrder = 100
